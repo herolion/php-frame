@@ -5,7 +5,7 @@ Welcome to my Project working on building a social media with an aspect of game 
 >I am still working on my skills with HTML, CSS, JS and PHP, so this will be a slow and painfull journey but I believe I can create something big.
 
 ## To-Do List
->
+
 - Build user system for interaction and login/registration
 - Work on responsive css
 - Layout of website and features
