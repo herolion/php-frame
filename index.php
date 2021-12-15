@@ -19,7 +19,14 @@
             <div class="col-3">
                 <div class="wrapper">
                     <div class="container">
-                        Left
+                        <div class="menu">
+                            <ol>
+                                <a href="./index.php"><li>Home</li></a>
+                                <a href="#"><li>Gallery</li></a>
+                                <a href="#"><li>Account</li></a>
+                                <a href="#"><li>Contact</li></a>
+                            </ol>
+                        </div>
                     </div>
                 </div>
             </div>
