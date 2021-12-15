@@ -16,10 +16,13 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-3">
+            <div class="col-2">
                 <div class="wrapper">
                     <div class="container">
-                        <div class="menu">
+                        <div class="container-header">
+                            <h4>Menu</h4>
+                        </div>
+                        <div class="container-body">
                             <ol>
                                 <a href="./index.php"><li>Home</li></a>
                                 <a href="#"><li>Gallery</li></a>
@@ -30,7 +33,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6">
+            <div class="col-7">
                 <div class="wrapper">
                     <div class="container">
                         
@@ -54,7 +57,12 @@
             <div class="col-3">
                 <div class="wrapper">
                     <div class="container">
-                        Right
+                        <div class="container-header">
+                            <h4>Profile</h4>
+                        </div>
+                        <div class="container-body">
+                            Right bar
+                        </div>
                     </div>
                 </div>
             </div>
